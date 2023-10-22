@@ -2,7 +2,7 @@
 <html>
 <body>
 
-<h1 style="background-color:Gray;">Gray</h1>
+<h1 style="background-color:Gray;">Cats</h1>
 </html>
 
 
